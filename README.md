@@ -24,14 +24,6 @@ I'm equally at home racking bare-metal servers and tuning NVMe for a validator a
 `AWS` · `GCP` · `Bare Metal` · `Go` · `Python` · `Bash`
 `Prometheus` · `Grafana` · `Loki` · `PostgreSQL` · `Kafka` · `Redis`
 
-### Featured projects
-
-<!-- Replace the names/links below with your actual step-2 repo names -->
-- **[node-deploy-toolkit](https://github.com/Sumyabazar1/REPO-NAME)** — Terraform + Ansible to provision and configure a blockchain node on bare metal
-- **[node-observability-stack](https://github.com/Sumyabazar1/REPO-NAME)** — Prometheus/Grafana/Loki stack with pre-built node dashboards and alert rules
-- **[REPO-NAME](https://github.com/Sumyabazar1/REPO-NAME)** — *(your Terraform module)*
-- **[REPO-NAME](https://github.com/Sumyabazar1/REPO-NAME)** — *(your CLI tool)*
-
 ### Reach me
 
 [LinkedIn](https://linkedin.com/in/sumiyabazar) · sumya0117@gmail.com
